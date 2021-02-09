@@ -1,5 +1,5 @@
-## Template
-#### Template
+## Dino-Ipsum
+#### Sub-Header
 ***By Andrew Lawson © 2021***
 
 ## *Description:*
@@ -11,8 +11,8 @@
 
 ## *Setup Instructions:*
 
-1. Copy https://github.com/andyL89/template-repo.
-2. Run `$ git clone https://github.com/andyL89/template-repo` in the terminal to add directory to your computer.
+1. Copy https://github.com/andyL89/dino-ipsum.
+2. Run `$ git clone https://github.com/andyL89/dino-ipsum` in the terminal to add directory to your computer.
 3. Navigate to the top level of the directory.
 4. Install packages locally by running `$ npm install` in the terminal.
 5. Create production environment by running `$ npm run build` in the terminal.
@@ -48,3 +48,6 @@
 ## Contact Information
 
 Andrew Lawson : alawson89@gmail.com
+Zack Rutledge : Thorgrim88@gmail.com
+Brian Sturgis : sturujisu@gmail.com
+Salim Mayam : salim.mayan@gmail.com
